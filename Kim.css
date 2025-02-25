@@ -60,7 +60,6 @@ body{
 .card{
   list-style: none;
   position: relative;
-  overflow: hidden;
 }
 
 .card:before{
